@@ -1,0 +1,5 @@
+langchain
+langchain-experimental
+langchain-openai
+redis
+wikipedia
