@@ -3,3 +3,4 @@ langchain-experimental
 langchain-openai
 redis
 wikipedia
+python-dotenv
